@@ -25,6 +25,10 @@
   <property name="windowTitle">
    <string>calculator</string>
   </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>114514.ico</normaloff>114514.ico</iconset>
+  </property>
   <widget class="QWidget" name="gridLayoutWidget">
    <property name="geometry">
     <rect>
